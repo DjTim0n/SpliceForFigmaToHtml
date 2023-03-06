@@ -51,8 +51,9 @@ li a {
 
 .sing-up {
     margin: 17px 16px;
+    width: 95px;
     height: 35px;
-    padding: 8px 21px;
+    padding: 8px 20px;
     background: #fff;
     font-family: 'Roboto';
     font-style: normal;
